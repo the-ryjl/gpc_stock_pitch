@@ -1,4 +1,3 @@
-# crwd_stock_pitch
 # CRWD Stock Pitch — CrowdStrike Holdings, Inc.
 **Call:** Long | **Horizon:** 12 months | **Target:** ${price} | **Upside/Downside:** +{X}% / −{Y}%
 
